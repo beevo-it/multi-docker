@@ -1,6 +1,6 @@
 {
     "AWSEBDockerrunVersion": 2,
-    "containerDefitions": [
+    "containerDefinitions": [
         {
             "name": "client",
             "image": "ferand81/multi-client",
